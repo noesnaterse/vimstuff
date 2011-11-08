@@ -67,7 +67,8 @@ map <leader>hi :so $VIMRUNTIME/syntax/hitest.vim<CR>
 " PURDY COLORZ
 let g:CSApprox_verbose_level = 0
 set bg=dark
-colorscheme molokai
+colorscheme anotherdark
+" colorscheme molokai
 "colorscheme mustang
 "colorscheme wombat256
 " map <silent><F2> :PREVCOLOR<cr>
